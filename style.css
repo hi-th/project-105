@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+}
+
+.names {
+    width: 30%;
+    background-color: darkblue;
+    color: white;
+    border-radius: 10px;
+    padding: 2px;
+}
